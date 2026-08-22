@@ -1,0 +1,17 @@
+equipamento,data,horas_trabalhadas,combustivel_litros,producao_m3,operador,obra
+ESC-01,01/08/2026,8,95.0,120,Carlos,Obra A
+esc-01,02/08/2026,9,110.0,135,Ana,obra a
+ ESC-01 ,03/08/2026,,100.0,125,Carlos, Obra A 
+ESC 01,04/08/2026,7.5,82.0,110,Ana,Obra A
+ESC-02,01/08/2026,8,90.0,100,João,Obra B
+ESC-02,02/08/2026,-4,50.0,80,João,Obra B
+ESC-03,01/08/2026,10,150.0,180,Marcos,Obra C
+ESC-03,02/08/2026,oito,120.0,160,Marcos,Obra C
+ESC-04,01/08/2026,6,68.0,85,Paulo,Obra B
+ESC-04,02/08/2026,7,,95,Paulo,Obra B
+ESC-05,01/08/2026,9,115.0,140,Ana,Obra A
+ESC-05,02/08/2026,0,40.0,0,Carlos,Obra A
+ESC-02,02/08/2026,8,90.0,100,João,Obra B
+ESC-03,35/08/2026,9,118.0,155,Marcos,Obra C
+ESC-01,05/08/2026,8,96.0,122,Carlos,Obra A
+ESC-02,01/08/2026,8,90.0,100,João,Obra B

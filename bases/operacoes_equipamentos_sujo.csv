@@ -1,0 +1,124 @@
+﻿id_operacao,equipamento,tipo,data,horas_trabalhadas,combustivel_litros,producao_m3,operador,obra,status
+1,PAC-01,Pá carregadeira,04/08/2026,4.2,82.5,96.8,Fernanda,Obra A,Ativo
+2,CAM-02,Caminhão,14/08/2026,4.2,64.4,97.9,Paulo,Obra A,Ativo
+3,PAC-01,Pá carregadeira,21/08/2026,8.2,97.0,123.9,João,Obra A,Ativo
+4, esc-01 ,Pá carregadeira,14/08/2026,6.0,70.5,184.9,João,Obra A,Ativo
+5,CAM-01,Caminhão,04/08/2026,6.2,89.4,101.7,Carlos,Obra C,Manutenção
+6,CAM-02,Caminhão,04/08/2026,,92.9,136.2,Fernanda,Obra C,Ativo
+7,CAM-02,Caminhão,07/08/2026,8.2,59.6,97.3,João,Obra A,Ativo
+8,esc-02,Escavadeira,13/08/2026,5.7,118.6,113.8,João,Obra B,Ativo
+9,PAC-01,Pá carregadeira,09/08/2026,8.2,123.4,78.6,Fernanda,Obra A,Ativo
+10,ESC-02,Escavadeira,15/08/2026,oito,154.0,146.8,Paulo,Obra A,Ativo
+11,ESC-01,Escavadeira,08/08/2026,8.9,135.5,118.1,Carlos,Obra A,Ativo
+12,ESC-02,Escavadeira,35/08/2026,7.0,143.5,147.1,Ana,Obra B,Ativo
+13,ESC-02,ESCAVADEIRA,18/08/2026,7.2,129.7,121.4,Paulo,Obra B,Ativo
+14,ESC-02,Escavadeira,05/08/2026,7.1,64.1,75.7,Carlos,Obra A,Ativo
+15,PAC-01,Pá carregadeira,14/08/2026,7.6,,141.5,Marcos,Obra C,Ativo
+16,CAM-02,Caminhão,01/08/2026,8.1,66.5,176.2,João,Obra C,Ativo
+17,ESC-01,Escavadeira,10/08/2026,-3,100.4,184.5,Fernanda,Obra B,Ativo
+18,CAM-02,Caminhão,04/08/2026,9.2,84.8,146.7,Paulo,Obra A,Ativo
+19,ESC-03,Escavadeira,06/08/2026,7.2,132.9,133.6,Carlos, obra a ,Ativo
+20,CAM-01,Caminhão,01/08/2026,4.7,91.3,188.2,João,Obra A,Ativo
+21,ESC-02,Escavadeira,19/08/2026,9.7,63.6,128.3,Carlos,Obra C,Ativo
+22,ESC-02,Escavadeira,16/08/2026,9.7,71.5,133.3,Paulo,Obra B,Ativo
+23,CAM-02,Caminhão,07/08/2026,8.3,94.9,150.6,,Obra B,Manutenção
+24,ESC-01,Escavadeira,08/08/2026,5.3,88.8,140.6,Ana,Obra C,Ativo
+25,ESC-01,Escavadeira,03/08/2026,8.2,60.9,78.1,Carlos,Obra B,Ativo
+26,CAM-02,Caminhão,08/08/2026,5.7,103.5,134.7,ana,Obra C,Manutenção
+27,ESC-02,Escavadeira,16/08/2026,8.8,74.0,81.6,Marcos,Obra B,Manutenção
+28,CAM-01,Caminhão,15/08/2026,9.2,60.4,148.4,Fernanda,Obra A,Ativo
+29,CAM-01,Caminhão,11/08/2026,8.8,65.9,93.0,Paulo,Obra B,Ativo
+30,CAM-01,Caminhão,06/08/2026,5.7,-20,180.8,Marcos,Obra C,Ativo
+31,ESC-01,Escavadeira,21/08/2026,10.0,138.6,186.3,Ana,Obra A,Manutenção
+32,CAM-01,Caminhão,16/08/2026,5.3,95.1,77.0,Marcos,Obra A,ativo
+33,ESC-03,Escavadeira,15/08/2026,5.7,124.7,157.7,Paulo,Obra C,Manutenção
+34,ESC-02,Escavadeira,07/08/2026,5.8,151.9,139.5,Paulo,Obra A,Ativo
+35,ESC-01,Escavadeira,02/08/2026,7.5,105.3,172.3,Ana,Obra A,Ativo
+36,ESC-02,Escavadeira,2026-08-10,7.6,122.5,98.2,Carlos,Obra C,Ativo
+37,CAM-02,Caminhão,20/08/2026,4.2,63.2,148.9,Paulo,Obra C,Ativo
+38,ESC-03,Escavadeira,07/08/2026,8.0,86.4,101.9,Ana,Obra C,Ativo
+39,CAM-01,Caminhão,11/08/2026,9.6,95 litros,71.1,Paulo,Obra C,Ativo
+40,ESC-01,Escavadeira,18/08/2026,5.3,81.5,182.0,Carlos,Obra A,Ativo
+41,ESC-03,Escavadeira,06/08/2026,6.6,109.3,106.3,Fernanda,Obra C,Ativo
+42,PAC-01,Pá carregadeira,18/08/2026,5.8,121.3,182.7,Ana,Obra B,Ativo
+43,ESC-01,Escavadeira,18/08/2026,4.9,83.2,95.3,João,Obra A,Ativo
+44,CAM-02,Caminhão,16/08/2026,5.5,145.8,76.1,Fernanda,Obra B,Ativo
+45,ESC-01,Escavadeira,01/08/2026,6.0,68.1,,Ana,Obra C,Manutenção
+46,CAM-02,Caminhão,14/08/2026,7.4,66.2,183.4,Fernanda,Obra A,Ativo
+47,ESC-03,Escavadeira,19/08/2026,7.3,98.0,75.0,João,Obra A,Ativo
+48,ESC-02,Escavadeira,08/08/2026,0,90.4,137.2,Marcos,Obra C,Ativo
+49,ESC-02,Escavadeira,06/08/2026,9.9,136.1,175.8,Carlos,Obra A,Ativo
+50,CAM-01,Caminhão,08/08/2026,5.6,133.7,83.0,Carlos,Obra B,Ativo
+51,ESC-02,Escavadeira,15/08/2026,6.1,137.1,174.6,Ana,Obra A,Ativo
+52,CAM-01,Caminhão,11/08/2026,5.7,61.9,162.8,João,Obra C,Manutenção
+53,PAC-01,Pá carregadeira,18/08/2026,6.0,57.8,175.2,João,Obra A,Ativo
+54,ESC-01,Escavadeira,04/08/2026,7.6,89.6,cento e vinte,Marcos,Obra C,Ativo
+55,CAM-01,Caminhão,19/08/2026,5.1,59.4,122.3,Paulo,Obra C,Ativo
+56,ESC-03,Escavadeira,14/08/2026,4.4,121.4,109.6,João,Obra C,Ativo
+57,PAC-01,Pá carregadeira,10/08/2026,7.0,121.7,109.1,Fernanda,Obra B,Ativo
+58,ESC-02,Escavadeira,14/08/2026,8.0,92.9,159.8,Ana,Obra C,Ativo
+59,CAM-01,Caminhão,18/08/2026,28,85.4,95.2,Paulo,Obra C,Ativo
+60,CAM-01,Caminhão,15/08/2026,6.7,76.4,126.8,Fernanda,Obra A,Ativo
+61,ESC-03,Escavadeira,17/08/2026,8.0,116.9,81.2,Ana,Obra C,Ativo
+62,ESC-02,Escavadeira,07/08/2026,4.9,59.6,188.1,Paulo,Obra A,Manutenção
+63,CAM-01,Caminhão,21/08/2026,"7,5",126.8,116.1,Marcos,Obra A,Ativo
+64,PAC-01,Pá carregadeira,01/08/2026,9.4,141.0,176.3,Marcos,Obra A,Ativo
+65,PAC-01,Pá carregadeira,,6.8,110.7,180.1,Carlos,Obra B,Ativo
+66,CAM-01,Caminhão,17/08/2026,9.9,114.5,184.0,Marcos,Obra C,Manutenção
+67,CAM-02,Caminhão,15/08/2026,9.4,129.4,127.0,João,Obra A,Ativo
+68,CAM-02,Caminhão,16/08/2026,7.8,999,79.3,João,Obra A,Ativo
+69,ESC-03,Escavadeira,11/08/2026,9.4,63.1,88.1,Marcos,Obra C,Ativo
+70,PAC-01,Pá carregadeira,07/08/2026,4.4,95.8,135.1,Marcos,Obra A,Ativo
+71,CAM-01,Caminhão,13/08/2026,9.4,113.4,153.5,Paulo,,Manutenção
+72,ESC-01,Escavadeira,12/08/2026,5.8,94.0,177.0,Marcos,Obra C,Ativo
+73,CAM-01,Caminhão,08/08/2026,5.6,103.6,116.7,Fernanda,Obra C,Manutenção
+74,ESC 03,Pá carregadeira,06/08/2026,9.0,147.0,187.7,Paulo,Obra A,Manutenção
+75,CAM-02,Caminhão,19/08/2026,8.0,63.4,121.4,Marcos,Obra A,Ativo
+76,ESC-03,Escavadeira,13/08/2026,6.0,100.5,110.5,Marcos,Obra B,Manutenção
+77,ESC-03,Escavadeira,03/08/2026,6.8,129.9,-40,João,Obra A,Ativo
+78,PAC-01,Pá carregadeira,02/08/2026,8.5,150.0,93.9,Carlos,Obra C,Ativo
+79,ESC-02,Escavadeira,05/08/2026,6.8,66.4,183.7,Marcos,Obra C,Ativo
+80,ESC-03,Escavadeira,06/08/2026,7.6,151.4,156.2,Ana,Obra B,Ativo
+81,CAM-02,Caminhão,01/08/2026,9.6,112.6,179.0,Marcos,Obra B,Ativo
+82,ESC-01,Escavadeira,19/08/2026,8.1,117.7,82.2,João,Obra C,Ativo
+83,CAM-02,Caminhão,02/08/2026,6.1,97.8,114.5,Paulo,Obra C,Ativo
+84,ESC-01,Escavadeira,14/08/2026,8.9,65.6,2500,Fernanda,Obra B,Ativo
+85,CAM-01,Caminhão,06/08/2026,8.4,151.5,102.4,Paulo,Obra B,Manutenção
+86,CAM-01,Caminhão,19/08/2026,5.6,140.2,169.7,Carlos,Obra B,Manutenção
+87,ESC-02,Escavadeira,15/08/2026,7.4,121.8,110.4,Marcos,Obra B,Ativo
+88,CAM-01,Caminhão,07/08/2026,6.1,80.8,103.6,Paulo,Obra C,Ativo
+89,CAM-02,Caminhao,01/08/2026,7.1,74.1,99.0,Marcos,Obra B,Ativo
+90,PAC-01,Pá carregadeira,16/08/2026,7.9,104.1,165.2,Carlos,Obra B,Ativo
+91,CAM-01,Caminhão,08/08/2026,5.8,113.2,126.8,Paulo,Obra B,Manutenção
+92,PAC-01,Pá carregadeira,31/02/2026,6.0,125.3,102.5,João,Obra A,Ativo
+93,PAC-01,Pá carregadeira,07/08/2026,5.9,129.3,184.1,Fernanda,Obra A,Ativo
+94,ESC-02,Escavadeira,16/08/2026,5.7,114.0,161.2,Paulo,Obra B,Ativo
+95,ESC-02,Escavadeira,10/08/2026,5.4,72.9,71.7,Paulo,Obra A,Ativo
+96,ESC-01,Escavadeira,02/08/2026,7.3,124.7,85.2,Marcos,Obra A,Ativo
+97,CAM-02,Caminhão,10/08/2026,6.8,99.0,92.1,Carlos,Obra B,Manutenção
+98,ESC-01,Escavadeira,03/08/2026,6.4,62.4,145.5,Carlos,Obra A,Ativo
+99,CAM-02,Caminhão,10/08/2026,4.5,79.8,137.0,Marcos,Obra C,Ativo
+100,CAM-02,Caminhão,13/08/2026,6.7,99.3,173.2,Marcos,Obra B,Ativo
+101,CAM-02,Caminhão,04/08/2026,9.7,75.8,95.3,Fernanda,Obra A,Ativo
+102,ESC-02,Escavadeira,06/08/2026,7.3,70.7,119.0,Fernanda,Obra C,ATIVO
+103,ESC-03,Escavadeira,02/08/2026,5.4,125.7,154.4,Marcos,Obra A,Ativo
+104,ESC-03,Escavadeira,21/08/2026,7.5,135.4,93.7,Carlos,Obra C,Ativo
+105,PAC-01,Pá carregadeira,05/08/2026,9.5,137.7,78.6,Ana,Obra B,Ativo
+106,CAM-01,Caminhão,04/08/2026,6.8,85.4,118.3,João,Obra C,Manutenção
+107,CAM-01,Caminhão,03/08/2026,7.6,143.9,158.1,Paulo,Obra B,Ativo
+108,ESC-01,Escavadeira,08/08/2026,9.8,138.6,139.0,Carlos,Obra C,Ativo
+109,CAM-02,Caminhão,02/08/2026,8.6,72.5,132.3,Marcos,Obra B,Ativo
+110,CAM-02,Caminhão,14/08/2026,7.8,104.2,80.9,João,Obra B,Ativo
+111,ESC-03,Escavadeira,04/08/2026,9.1,88.0,153.2,João,Obra C,Manutenção
+112,CAM-02,Caminhão,02/08/2026,6.7,86.5,108.8,Marcos,Obra C,Ativo
+113,PAC-01,Pá carregadeira,18/08/2026,6.8,60.4,132.2,Paulo,Obra B,Manutenção
+114,ESC-01,Escavadeira,07/08/2026,5.6,68.1,104.6,Fernanda,Obra B,Ativo
+115,ESC-01,Escavadeira,21/08/2026,7.7,78.9,89.0,Paulo,Obra A,Manutenção
+116,ESC-01,Escavadeira,08/08/2026,10.0,146.3,125.4,Carlos,Obra C,Ativo
+117,CAM-01,Caminhão,10/08/2026,7.1,82.3,170.2,Marcos,Obra A,Manutenção
+118,CAM-02,Caminhão,05/08/2026,6.3,147.2,131.0,Ana,Obra A,Ativo
+119,CAM-01,Caminhão,11/08/2026,9.6,105.8,168.5,João,Obra C,Ativo
+120,CAM-02,Caminhão,19/08/2026,10.0,104.0,87.8,Paulo,Obra B,Ativo
+21,ESC-02,Escavadeira,19/08/2026,9.7,63.6,128.3,Carlos,Obra C,Ativo
+56,ESC-03,Escavadeira,14/08/2026,4.4,121.4,109.6,João,Obra C,Ativo
+81,CAM-02,Caminhão,01/08/2026,9.6,112.6,179.0,Marcos,Obra B,Ativo
